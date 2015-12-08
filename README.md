@@ -1,0 +1,2 @@
+# Oracle-GoldenGate-to-push-change-capture-data-directly-to-an-Apache-Kafka-cluster
+I have a project for using OGG replication to push the data directly to Apache Kafka system. So I need to know if there's anyone who has done it before? And if there are some documents for 1. Configure OGG Kafka adapter to send transactions written to the OGG trail files to a Kafka Adapter, via Avro RPC messages.  2. Set up and configuring a Kafka Adapter to receive those messages, and write them in Apache Kafka data storage format for the Apache Kafka target. 
